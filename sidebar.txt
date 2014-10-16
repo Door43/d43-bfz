@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfz:home|Door43 (bfz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfz|d43-bfz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfz/archive/master.zip|d43-bfz.zip]]
+
+**Recent Changes**
+{{changes>ns = bfz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfz|Ethnologue data]]
+
